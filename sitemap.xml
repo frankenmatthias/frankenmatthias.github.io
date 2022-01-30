@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>frankenmatthias.github.io/public/about/</loc>
+    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>frankenmatthias.github.io/public/bio/</loc>
+    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>frankenmatthias.github.io/public/presentations/</loc>
+    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>frankenmatthias.github.io/public/publications/</loc>
+    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>frankenmatthias.github.io/public/categories/</loc>
+  </url><url>
+    <loc>frankenmatthias.github.io/public/</loc>
+  </url><url>
+    <loc>frankenmatthias.github.io/public/tags/</loc>
+  </url>
+</urlset>

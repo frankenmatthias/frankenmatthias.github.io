@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthias Franken</title>
+    <link>frankenmatthias.github.io/public/</link>
+    <description>Recent content on Matthias Franken</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="frankenmatthias.github.io/public/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>frankenmatthias.github.io/public/about/</link>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>frankenmatthias.github.io/public/about/</guid>
+      <description>I am a postdoctoral researcher at the motor neuroscience lab at McGill University (Montreal, Canada), working with David Ostry. My core research interests is focused on the neuroscience of speech production and perception, and their interaction.
+In order to investigate the sensory-motor aspects of speech, I use a variety of experimental methods, including psychophysical and acoustic measures, electrophysiology (MEG, EEG) and non-invasive brain stimulation (TMS). Current projects include the role of the somatosensory system in speech motor learning and perception, and the contribution of sensory feedback to the generation of a sense of agency over speech.</description>
+    </item>
+    
+    <item>
+      <title>Bio</title>
+      <link>frankenmatthias.github.io/public/bio/</link>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>frankenmatthias.github.io/public/bio/</guid>
+      <description>Check out my CVfor more detail (last updated Jan 18, 2022).</description>
+    </item>
+    
+    <item>
+      <title>Presentations</title>
+      <link>frankenmatthias.github.io/public/presentations/</link>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>frankenmatthias.github.io/public/presentations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>frankenmatthias.github.io/public/publications/</link>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>frankenmatthias.github.io/public/publications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
