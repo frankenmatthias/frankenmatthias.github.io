@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>frankenmatthias.github.io/about/</loc>
+    <loc>https://frankenmatthias.github.io/about/</loc>
     <lastmod>2022-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>frankenmatthias.github.io/bio/</loc>
+    <loc>https://frankenmatthias.github.io/bio/</loc>
     <lastmod>2022-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>frankenmatthias.github.io/presentations/</loc>
+    <loc>https://frankenmatthias.github.io/presentations/</loc>
     <lastmod>2022-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>frankenmatthias.github.io/publications/</loc>
+    <loc>https://frankenmatthias.github.io/publications/</loc>
     <lastmod>2022-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>frankenmatthias.github.io/categories/</loc>
+    <loc>https://frankenmatthias.github.io/categories/</loc>
   </url><url>
-    <loc>frankenmatthias.github.io/</loc>
+    <loc>https://frankenmatthias.github.io/</loc>
   </url><url>
-    <loc>frankenmatthias.github.io/tags/</loc>
+    <loc>https://frankenmatthias.github.io/tags/</loc>
   </url>
 </urlset>
